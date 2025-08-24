@@ -1,0 +1,10 @@
+kaggle
+scikit-image
+opencv-python
+pandas
+numpy
+matplotlib
+seaborn
+torch
+tqdm
+torchvision
