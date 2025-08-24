@@ -4,12 +4,12 @@ This project implements a deep learning pipeline to first denoise a set of noisy
 
 ### **Table of Contents**
 
-1. [Denoising Method](https://www.google.com/search?q=%23denoising-method)  
-2. [Classification Approach](https://www.google.com/search?q=%23classification-approach)  
-3. [Key Design Decisions](https://www.google.com/search?q=%23key-design-decisions)  
-4. [Challenges and How I Overcame Them](https://www.google.com/search?q=%23challenges-and-how-i-overcame-them)  
-5. [Repository Structure](https://www.google.com/search?q=%23repository-structure)  
-6. [Requirements](https://www.google.com/search?q=%23requirements)  
+1. [Denoising Method]
+2. [Classification Approach]
+3. [Key Design Decisions]
+4. [Challenges and How I Overcame Them]
+5. [Repository Structure] 
+6. [Requirements]
 
 ### **Denoising Method**
 
