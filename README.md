@@ -10,7 +10,6 @@ This project implements a deep learning pipeline to first denoise a set of noisy
 4. [Challenges and How I Overcame Them](https://www.google.com/search?q=%23challenges-and-how-i-overcame-them)  
 5. [Repository Structure](https://www.google.com/search?q=%23repository-structure)  
 6. [Requirements](https://www.google.com/search?q=%23requirements)  
-7. [How to Run](https://www.google.com/search?q=%23how-to-run)
 
 ### **Denoising Method**
 
@@ -46,7 +45,7 @@ Denoise\_Project/
 ├── data\_loader.py  
 ├── utils.py  
 ├── requirements.txt  
-├── Denoised\_Images/  
+├── Denoised\_Images/
 
 ### **Requirements**
 
