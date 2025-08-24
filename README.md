@@ -47,7 +47,6 @@ Denoise\_Project/
 ├── utils.py  
 ├── requirements.txt  
 ├── Denoised\_Images/  
-└── REC\_DATASET/
 
 ### **Requirements**
 
@@ -63,23 +62,3 @@ seaborn
 torch  
 tqdm  
 torchvision
-
-### **How to Run**
-
-1. Clone the Repository:  
-   git clone \<repository-url\>  
-2. Install Requirements:  
-   pip install \-r requirements.txt  
-3. **Download and Extract the Dataset:**  
-   * Create a Kaggle API key and place kaggle.json in your home directory or in the project's root folder.  
-   * The main.py script includes code to handle the download and extraction of the dataset 180-dc-ml-sig-recruitment.zip from Kaggle.  
-   * Run the script once to download the data.  
-4. Run the Main Script:  
-   python main.py  
-   This will perform the following steps:  
-   * Load the training and test datasets.  
-   * Train the Denoising Autoencoder (DAE) and save its checkpoint.  
-   * Train the Flower Classifier and save its checkpoint.  
-   * Load the test images, denoise them using the DAE, and then classify them.  
-   * Save the denoised images and a CSV file of the predicted labels.  
-   * Print the evaluation metrics to the console.
